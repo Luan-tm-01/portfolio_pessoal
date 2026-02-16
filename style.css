@@ -68,8 +68,8 @@ span {
 }
 
 .inicio-img img {
-    width: 32vw;
-    border-radius: 50%;
+    width: 15vw;
+    border-radius: 20rem;
     transition: 0.5s linear;
 }
 
